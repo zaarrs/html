@@ -1,0 +1,25 @@
+#banner{
+    background-color: blueviolet;
+    padding: 10em;
+}
+#banner h1{
+    color: aqua;
+    text-align: center;
+    font-size: 5em;
+
+
+}
+#partner{
+    background-color: red;
+}
+#partner h1{
+    color: aqua;
+    text-align: center;
+    font-size: 3em;
+}
+footer{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+

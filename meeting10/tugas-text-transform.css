@@ -1,0 +1,65 @@
+#text-align{
+    text-align: center;
+    background-color: black;
+}
+#text-align p{
+    color: white;
+}
+#text-direction{
+    
+    background-color: black;
+    direction: rtl;
+
+}
+#text-direction p{
+    color: white;
+}
+#text-decoration{
+    background-color: black;
+}
+#text-decoration p{
+    color:white ;
+    text-align: center;
+    text-decoration: overline;
+}
+#text-transform{
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+#text-transform p{
+    color: white;
+
+}
+#text-spacing {
+    background-color: black;
+    word-spacing: 5em;
+
+}
+#text-spacing p{
+    color: white;
+}
+#text-overflow{
+    text-align: center;
+    background-color: black;
+     overflow: scroll;
+    
+}
+#text-overflow p{
+    color: white;
+}
+#text-shadow{
+    background-color: black;
+    text-align: center;
+    text-shadow: 2px 2px;
+}
+#text-shadow p{
+    color: white;
+}
+
+
+
+
+
+

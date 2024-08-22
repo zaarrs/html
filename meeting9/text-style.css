@@ -1,0 +1,11 @@
+.judul-banner{
+    background-color: aqua;
+    text-align: right;
+    direction: ltr;
+    
+}
+.paragraf{
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 10.5em;
+}
